@@ -1,4 +1,4 @@
-# Asus-F450v Hackintosh
+# Asus-F450v 
 **Summary**
 
 ##Language:
